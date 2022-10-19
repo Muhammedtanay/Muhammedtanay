@@ -12,8 +12,8 @@ MUHAMMED TANAY .NET CORE DEVELOPER
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
   
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="sass" width="120" height="70"/> </a>
+ <a href="https://learn.microsoft.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" top="25" width="120" height="70"/> </a>
 
 </p>
 

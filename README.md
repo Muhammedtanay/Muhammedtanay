@@ -14,13 +14,13 @@ MUHAMMED TANAY .NET CORE DEVELOPER
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="sass" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="sass" width="120" height="70"/> </a>
 
 </p>
 
 
 
-<img src="" alt="figma" width="120" height="80"/>
+
 ###   Hi there 👋
 :back::end:
 <!--

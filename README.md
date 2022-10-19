@@ -1,5 +1,6 @@
 MUHAMMED TANAY .NET CORE DEVELOPER
 
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="figma" width="40" height="40"/>
 ###   Hi there 👋
 :back::end:
 <!--

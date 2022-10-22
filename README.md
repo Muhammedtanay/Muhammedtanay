@@ -19,7 +19,7 @@ MUHAMMED TANAY .NET CORE DEVELOPER
 </p>
 
 
-https://we.tl/t-Xldy2fnKFC
+
 
 ###   Hi there 👋
 :back::end:

@@ -12,9 +12,9 @@ MUHAMMED TANAY .NET CORE DEVELOPER
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://cdn.cdnlogo.com/logos/d/41/docker.svg" target="_blank" rel="noreferrer"> 
- 
 <img src="https://cdn.cdnlogo.com/logos/d/41/docker.svg" alt="javascript" width="40" height="40"/> </a> 
-
+<a href="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg" alt="javascript" width="40" height="40"/> </a> 
  
  <a href="https://learn.microsoft.com/" target="_blank" rel="noreferrer"> 
   

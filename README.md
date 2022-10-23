@@ -1,4 +1,5 @@
-MUHAMMED TANAY .NET CORE DEVELOPER
+<h2 align="center">Hi 👋, I'm MUHAMMED TANAY</h2>
+<h3 align="center">I AM A .NET CORE DEVELOPER.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

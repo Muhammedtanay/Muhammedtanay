@@ -22,8 +22,9 @@
 <img src="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://cdn.cdnlogo.com/logos/u/15/ubuntu.svg" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.cdnlogo.com/logos/u/15/ubuntu.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://learn.microsoft.com/" target="_blank" rel="noreferrer"> 
-  
+ <a href="https://learn.microsoft.com/" target="_blank" rel="noreferrer">                                                             
+              
+            
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" top="25" width="120" height="70"/> </a>
 
 </p>
